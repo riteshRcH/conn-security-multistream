@@ -1,4 +1,4 @@
-module github.com/riteshRcH/go-conn-security-multistream
+module github.com/riteshRcH/conn-security-multistream
 
 go 1.17
 
